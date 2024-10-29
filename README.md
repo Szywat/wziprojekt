@@ -1,2 +1,4 @@
-# wziprojekt
-Repozytorium do projektu ze Współczesnych Zastosowań Informatyki
+# Skład zespołu
+Marta Piotrowska
+Michał Wątroba
+Szymon Wątorowski
